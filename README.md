@@ -1,2 +1,2 @@
 # java
-creating APIs with Java and springboot
+creating APIs with Java and SpringBoot
